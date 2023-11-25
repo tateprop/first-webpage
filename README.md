@@ -10,5 +10,6 @@ im glad i stuck it out because i really got in the flow of it all
 5) I need to research responsive design "internetting is hard" has a chapter on this
 6) I need to research the css/html pep8 equivalent
 
+I got lazy on the formatting but its not the main deal
 This overall was not so hard.
 I want the next challenge!!
