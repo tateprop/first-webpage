@@ -29,3 +29,8 @@ Still to look into.
 
 I got bored doing responsive images I'm not going to have to worry about that kinda of optimisation
 I can just use larger image sizes
+
+Did more research and in answer to the above:
+1) Sematic markup as defined by HTML5 is best practice this include article, section, nav, header etc.
+Basically use descriptive  tags when appropriate
+2) I think using hyphens is pretty (and developers suck at naming in general)
