@@ -26,3 +26,6 @@ so you can set absolute values
 Still to look into.
 1) correct design princeples (when to use which tags etc.)
 2) naming conventions 
+
+I got bored doing responsive images I'm not going to have to worry about that kinda of optimisation
+I can just use larger image sizes
